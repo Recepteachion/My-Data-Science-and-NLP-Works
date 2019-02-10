@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "embedding:0"
+  metadata_path: "C:\\Users\\oztur\\MY_JUPYTER_WORKS\\Quran_word2vec\\sample.tsv"
+}
